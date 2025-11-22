@@ -1,9 +1,6 @@
-# InformationRetrival
-
-# set up conda env
 conda create -n irposindex python=3.10
 conda activate irposindex
 pip install -r requirements.txt
 
-# Convert the notebook to html format:
+Convert the notebook to html format:
 jupyter nbconvert --to html Academic_Search_Engine.ipynb --embed-images --no-input --output Academic_Search_Engine.html
