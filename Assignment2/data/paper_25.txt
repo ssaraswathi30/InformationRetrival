@@ -1,0 +1,3 @@
+Contrastive Learning: Self-Supervised Representation Learning
+
+Contrastive learning learns representations by contrasting similar and dissimilar examples. This paper examines SimCLR, MoCo, and BYOL methods. Applications in self-supervised pre-training for computer vision and NLP are thoroughly explored.

@@ -1,0 +1,3 @@
+Clustering Algorithms: K-means, Hierarchical, and Density-based
+
+Unsupervised learning through clustering organizes data into meaningful groups. This paper reviews partitioning methods, hierarchical clustering, and density-based approaches like DBSCAN. Evaluation metrics and applications in customer segmentation are discussed.

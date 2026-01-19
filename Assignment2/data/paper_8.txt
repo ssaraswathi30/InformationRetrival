@@ -1,0 +1,3 @@
+Optimization Techniques for Deep Learning
+
+Optimization is crucial for training deep neural networks efficiently. This paper reviews gradient descent variants including SGD, Adam, RMSprop, and AdaGrad. We analyze convergence properties, learning rate scheduling, and batch normalization techniques for improved training stability.

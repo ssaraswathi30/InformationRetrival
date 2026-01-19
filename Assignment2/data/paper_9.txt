@@ -1,0 +1,3 @@
+Bayesian Deep Learning: Uncertainty Estimation
+
+Quantifying uncertainty in deep learning predictions is important for reliable decision-making. This paper explores Bayesian neural networks, variational inference, and dropout-based uncertainty estimation. Applications in medical imaging and autonomous systems are discussed.

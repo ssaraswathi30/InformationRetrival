@@ -1,0 +1,3 @@
+Recurrent Neural Networks for Sequence Modeling
+
+Recurrent neural networks handle sequential data by maintaining hidden state across time steps. This paper examines long short-term memory networks, gated recurrent units, and bidirectional RNNs. Applications span time series forecasting, language modeling, and video analysis.

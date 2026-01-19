@@ -1,0 +1,3 @@
+Sentiment Analysis using Deep Learning
+
+Sentiment analysis determines emotional polarity in text. This paper explores CNN-based, RNN-based, and transformer-based architectures for sentiment classification. Multi-lingual sentiment analysis and aspect-based sentiment analysis are examined.

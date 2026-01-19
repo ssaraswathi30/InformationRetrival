@@ -1,0 +1,3 @@
+Named Entity Recognition: Techniques and Applications
+
+Named entity recognition identifies and classifies entities in text. This paper reviews CRF-based approaches, RNN-based models, and transformer-based NER systems. Biomedical NER and cross-lingual NER are explored.

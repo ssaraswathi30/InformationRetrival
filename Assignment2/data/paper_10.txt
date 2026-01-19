@@ -1,0 +1,3 @@
+Meta-Learning: Learning to Learn
+
+Meta-learning enables models to quickly adapt to new tasks with minimal data. This paper examines model-agnostic meta-learning, prototypical networks, and siamese networks. Few-shot learning and zero-shot learning paradigms are thoroughly analyzed.

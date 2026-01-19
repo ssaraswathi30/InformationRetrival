@@ -1,0 +1,3 @@
+Capsule Networks: An Alternative to CNNs
+
+Capsule networks introduce hierarchical relationships between features. This paper reviews capsule network architecture, routing algorithms, and dynamic routing. Performance on image classification and 3D object recognition is analyzed.

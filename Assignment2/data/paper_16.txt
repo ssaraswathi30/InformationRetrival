@@ -1,0 +1,3 @@
+Natural Language Understanding with BERT and Beyond
+
+BERT revolutionized NLP through bidirectional pre-training. This paper discusses BERT variants like RoBERTa, ALBERT, and DistilBERT. Fine-tuning strategies for downstream tasks and model efficiency improvements are analyzed.

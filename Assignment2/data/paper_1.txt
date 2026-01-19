@@ -1,0 +1,3 @@
+Deep Learning for Computer Vision: A Survey
+
+This paper provides a comprehensive survey of deep learning techniques applied to computer vision tasks. We examine convolutional neural networks, recurrent architectures, and transformer-based models for image classification, object detection, and semantic segmentation. State-of-the-art performance metrics are discussed across multiple benchmark datasets.

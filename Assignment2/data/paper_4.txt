@@ -1,0 +1,3 @@
+Generative Adversarial Networks for Image Synthesis
+
+Generative adversarial networks (GANs) have become powerful tools for image generation and synthesis. We explore unconditional GANs, conditional GANs, and progressive GANs. Applications include style transfer, image-to-image translation, and super-resolution imaging.

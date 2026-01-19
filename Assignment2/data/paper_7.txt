@@ -1,0 +1,3 @@
+Reinforcement Learning: Algorithms and Applications
+
+Reinforcement learning enables agents to learn optimal behavior through interaction with environments. This paper covers value-based methods, policy gradients, actor-critic algorithms, and deep reinforcement learning. Applications include robotics control, game playing, and autonomous navigation.

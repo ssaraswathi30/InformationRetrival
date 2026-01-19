@@ -1,0 +1,3 @@
+Word Embeddings: Word2Vec, GloVe, and FastText
+
+Word embeddings represent words as dense vectors capturing semantic relationships. This paper discusses Word2Vec (skip-gram and CBOW), GloVe, and FastText. Downstream applications in text classification and machine translation are evaluated.

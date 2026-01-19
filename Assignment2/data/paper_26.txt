@@ -1,0 +1,3 @@
+Vision Transformers: Applying Transformers to Images
+
+Vision transformers apply transformer architecture to image classification without convolutional layers. This paper discusses ViT architecture, positional embeddings, and training strategies. Comparisons with CNNs and hybrid models are provided.

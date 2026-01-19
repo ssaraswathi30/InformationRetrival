@@ -1,0 +1,3 @@
+Transformer Models: State-of-the-Art Natural Language Processing
+
+Transformers have become the foundation of modern NLP systems. This paper discusses the architecture of transformer models, their training efficiency, and applications in machine translation, question answering, and text summarization. BERT, GPT, and T5 models are analyzed in detail.

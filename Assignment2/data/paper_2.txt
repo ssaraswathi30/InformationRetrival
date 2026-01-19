@@ -1,0 +1,3 @@
+Attention Mechanisms in Neural Networks
+
+Attention mechanisms have revolutionized sequence-to-sequence models and transformers. This paper explores self-attention, multi-head attention, and cross-attention mechanisms. We demonstrate how attention improves model interpretability and performance on natural language processing and machine translation tasks.

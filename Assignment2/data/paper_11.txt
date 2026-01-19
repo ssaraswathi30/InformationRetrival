@@ -1,0 +1,3 @@
+Graph Neural Networks for Relational Data
+
+Graph neural networks process data with non-Euclidean structure. This paper covers graph convolutional networks, graph attention networks, and graph isomorphism networks. Applications include social network analysis, molecular property prediction, and knowledge graph completion.

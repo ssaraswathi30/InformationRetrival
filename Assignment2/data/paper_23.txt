@@ -1,0 +1,3 @@
+Knowledge Distillation: Compressing Neural Networks
+
+Knowledge distillation transfers knowledge from large models to smaller ones. This paper explores teacher-student learning, hint learning, and attention transfer. Applications in mobile deployment and edge computing are discussed.

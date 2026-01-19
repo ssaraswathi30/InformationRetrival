@@ -1,0 +1,3 @@
+Transfer Learning: A Comprehensive Review
+
+Transfer learning enables models trained on large datasets to be adapted for specific downstream tasks with limited data. This paper reviews domain adaptation, fine-tuning strategies, and multi-task learning. We provide practical guidelines for applying transfer learning across computer vision and NLP domains.

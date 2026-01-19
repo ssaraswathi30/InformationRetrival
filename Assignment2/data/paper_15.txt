@@ -1,0 +1,3 @@
+Object Detection: YOLO, Faster R-CNN, and SSD
+
+Object detection is fundamental for computer vision applications. This paper compares single-stage detectors (YOLO, SSD) and two-stage detectors (Faster R-CNN, Mask R-CNN). Performance benchmarks and architectural innovations are thoroughly reviewed.

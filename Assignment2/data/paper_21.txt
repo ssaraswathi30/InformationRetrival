@@ -1,0 +1,3 @@
+Time Series Forecasting with LSTM and Attention
+
+Time series forecasting predicts future values from historical sequences. This paper compares LSTM networks, encoder-decoder architectures, and attention-based models. Applications in stock prediction and weather forecasting are analyzed.

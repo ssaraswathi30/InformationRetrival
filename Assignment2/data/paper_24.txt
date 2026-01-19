@@ -1,0 +1,3 @@
+Neural Architecture Search: Automated Model Design
+
+Neural architecture search automates the design of optimal neural network architectures. This paper reviews reinforcement learning-based NAS, evolutionary algorithms, and differentiable architecture search. Efficiency improvements and application domains are covered.
