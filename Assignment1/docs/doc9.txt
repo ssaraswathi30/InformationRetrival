@@ -1,0 +1,11 @@
+Reinforcement Learning and Decision Making
+
+Reinforcement learning enables agents to learn optimal behavior through interaction with an environment. Decision making under uncertainty requires balancing exploration and exploitation. RL algorithms maximize cumulative rewards over time.
+
+The reinforcement learning framework includes states, actions, rewards, and policies. Q-learning learns action-value functions for discrete state spaces. Deep Q-networks combine Q-learning with neural networks for high-dimensional problems.
+
+Policy gradient methods directly optimize the policy function. Actor-critic algorithms combine value-based and policy-based approaches. These methods achieve impressive results in game playing and robotics control.
+
+Model-based reinforcement learning learns environment dynamics to plan optimal actions. Model-free methods learn directly from experience without explicit environment models. Multi-agent reinforcement learning coordinates multiple learning agents.
+
+Applications of reinforcement learning include robotic manipulation, autonomous driving, and resource allocation. Game AI using reinforcement learning defeats human champions in chess, Go, and video games. Recommendation systems apply reinforcement learning to optimize long-term user engagement. Industrial applications include supply chain optimization and energy management. Challenges include sample efficiency, safety guarantees, and transfer learning to new environments.
